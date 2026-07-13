@@ -19,7 +19,7 @@ class student{
     private String name;
     private int age;
     static {
-        System.out.println("静态代码块执行了");
+        //添加一些用户信息
     }
 
     public student() {
