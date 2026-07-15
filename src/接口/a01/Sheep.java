@@ -1,4 +1,4 @@
-package 接口.ao1;
+package 接口.a01;
 
 public class Sheep extends Animal{
 
