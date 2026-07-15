@@ -45,7 +45,14 @@ public class Car {
             this.engineAge = engineAge;
         }
     }
-
+    static class Glass{
+        public void eat(){
+            System.out.println("1");
+        }
+        public static void showGlass(){
+            System.out.println("静态内部类");
+        }
+    }
 
 
     public Car() {
